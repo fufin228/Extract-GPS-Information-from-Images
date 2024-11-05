@@ -27,7 +27,7 @@ python your_script_name.py
 - It checks if the GPS information is present.
 - If GPS data is found, it extracts and formats the latitude and longitude into a string and prints it. If no GPS information is available, it will print a message indicating this.
 
-## Example Output
+### Example Output
 
 When the script successfully extracts GPS data, it will output something like:
 
@@ -41,9 +41,12 @@ If there is no GPS information, you will see:
 GPS information not found.
 ```
 
+### Main Features
+
+- The script utilizes the Pillow library to handle image files and extract EXIF data.
+- It focuses on GPS information, ensuring only essential details are extracted and presented clearly.
+
 ## License
 
 This project is licensed under the MIT License.
-
-
 
