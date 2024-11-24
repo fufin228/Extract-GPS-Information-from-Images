@@ -18,7 +18,13 @@ To run this script, you need to have the following installed:
 3. Run the script using Python:
 
 ```bash
-python your_script_name.py
+git clone https://github.com/fufin228/Extract-GPS-Information-from-Images
+```
+```bash
+cd Extract-GPS-Information-from-Images
+```
+```bash
+python main.py
 ```
 
 ## How It Works
