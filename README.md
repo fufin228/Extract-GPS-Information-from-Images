@@ -24,7 +24,7 @@ git clone https://github.com/fufin228/Extract-GPS-Information-from-Images
 cd Extract-GPS-Information-from-Images
 ```
 ```bash
-python3 main.py
+python3 window.py
 ```
 
 ## How It Works
